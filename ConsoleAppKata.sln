@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppKata", "ConsoleAppKata\ConsoleAppKata.csproj", "{102E854E-898F-4589-B2EE-5D9622ED5CE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppKataTest", "ConsoleAppKataTest\ConsoleAppKataTest.csproj", "{C271B9A8-2BC3-4076-858D-C600A596E63B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{102E854E-898F-4589-B2EE-5D9622ED5CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{102E854E-898F-4589-B2EE-5D9622ED5CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{102E854E-898F-4589-B2EE-5D9622ED5CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C271B9A8-2BC3-4076-858D-C600A596E63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C271B9A8-2BC3-4076-858D-C600A596E63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C271B9A8-2BC3-4076-858D-C600A596E63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C271B9A8-2BC3-4076-858D-C600A596E63B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
